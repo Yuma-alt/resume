@@ -1,51 +1,98 @@
 ---
-interface Props {
-	title: string;
-}
+type Props = {
+  frontmatter: {
+    title: string;
+  };
+};
 
-const { title } = Astro.props;
+const { title } = Astro.props.frontmatter;
 ---
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="description" content="Astro description" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
-	</head>
-	<body>
-		<slot />
-	</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="robots" content="noindex" />
+    <title>{title}</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/sakura.css/css/sakura.css"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <article>
+      <slot />
+    </article>
+  </body>
 </html>
+
 <style is:global>
-	:root {
-		--accent: 136, 58, 234;
-		--accent-light: 224, 204, 250;
-		--accent-dark: 49, 10, 101;
-		--accent-gradient: linear-gradient(
-			45deg,
-			rgb(var(--accent)),
-			rgb(var(--accent-light)) 30%,
-			white 60%
-		);
-	}
-	html {
-		font-family: system-ui, sans-serif;
-		background: #13151a;
-		background-size: 224px;
-	}
-	code {
-		font-family:
-			Menlo,
-			Monaco,
-			Lucida Console,
-			Liberation Mono,
-			DejaVu Sans Mono,
-			Bitstream Vera Sans Mono,
-			Courier New,
-			monospace;
-	}
+  body {
+    max-width: 44em;
+  }
+
+  article {
+    background-color: white;
+    box-shadow:
+      0px 8px 16px -2px rgba(10, 10, 10, 0.1),
+      0px 0px 0px 1px rgba(10, 10, 10, 0.02);
+    padding: 4px 96px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1em;
+    color: #707070;
+  }
+
+  h3 {
+    font-size: 1.4em;
+  }
+
+  h4 {
+    font-size: 1.1em;
+    text-decoration: underline;
+  }
+
+  p {
+  }
+
+  li {
+    margin: 0px;
+  }
+
+  /* PDF用 */
+  @media print {
+    @page {
+      margin: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-size: 18px;
+    }
+
+    * {
+      -webkit-print-color-adjust: exact;
+    }
+
+    article {
+      box-shadow: none;
+      margin: 0 auto;
+    }
+
+    section {
+      margin: 0;
+      box-shadow: none;
+      page-break-before: always;
+    }
+  }
 </style>
