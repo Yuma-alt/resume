@@ -47,7 +47,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Ast
 
 #### 飲食店向けの事前決済サービス「Paygood eats」の開発(2022/5 - 2023/6)
 
-大手銀行子会社の新サービス開発案件に SES で参画。  
+自社サービス開発に参画。  
 見積もり、提案書作成、技術選定などの上流工程から開発、ローンチまでを担当しました。  
 クライアントの要望をそのまま実現するのではなく、実際のエンドユーザーを思い浮かべ、**どうしたら使いやすい WEB サービスを実現できるのかを常に考えて開発に取り組みました。**
 
@@ -61,6 +61,15 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Ast
 Java / SpringBoot / TypeScript / Sveltekit / Keycloak / Docker / Kubernetes / AWS
 
 #### イベント物販用の事前決済サービス「Paygood live」の開発(2021/3 - 2022/5)
+
+自社サービス開発に参画。
+フロントエンドとバックエンドを担当しました。
+
+**主な取り組み**
+
+**使用技術**
+
+Java / SpringBoot / TypeScript / Sveltekit / Keycloak / Docker / Kubernetes / AWS
 
 ### 株式会社ネクスタム（2019/04〜2021/04）
 
