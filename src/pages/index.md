@@ -40,7 +40,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Ast
 
 ### 株式会社モノクレア | 2021/06 - 現在
 
-#### 国民向けポータルサイトの開発(2023/7 - 現在)
+#### 国民向けポータルサイトの開発(2023/07 - 現在)
 
 某省庁の追加機能開発案件に SES として参画。  
 基本設計・詳細設計・フロントエンド/バックエンド開発・単体/結合テストなどの上流工程から開発まで担当しています。
@@ -50,7 +50,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Ast
 **使用技術**  
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git
 
-#### 飲食店向けの事前決済サービス「Paygood eats」の開発(2022/5 - 2023/6)
+#### 飲食店向けの事前決済サービス「Paygood eats」の開発(2022/05 - 2023/06)
 
 自社サービス開発に参画。  
 要件定義フェーズから開発、ローンチまでを担当しました。  
@@ -62,7 +62,7 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git
 
 Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
 
-#### イベント物販用の事前決済サービス「Paygood live」の開発(2021/3 - 2022/5)
+#### イベント物販用の事前決済サービス「Paygood live」の開発(2021/06 - 2022/05)
 
 自社サービス開発に参画。
 フロントエンドとバックエンドを担当しました。
@@ -75,13 +75,14 @@ Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Doc
 
 ### 株式会社ネクスタム（2019/04〜2021/04）
 
+#### 顧客管理・営業支援システム開発の保守・運用、追加開発(2019/10 - 2021/04)
+
 主に受託案件に SE として携わっていました。見積もりや提案書作成、設計から開発、保守・運用まで幅広く経験しました。**様々な開発 PJ に参加し、幅広い開発環境に対応できるスキルを身に着けました。**
 
-**主な参加 PJ(古いので省略しています)**
+**主な参加 PJ(2019/04〜2019/10) ※古いので省略しています**
 
 - 適正検査システム新機能開発(Laravel+jQuery)
 - 家賃保証・管理システム新機能開発(SpringBoot+Vue)
-- 顧客管理・営業支援システム開発の保守・運用、追加開発(SpringBoot+Vue)
 
 **使用技術**
 
