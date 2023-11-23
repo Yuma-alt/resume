@@ -58,9 +58,6 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git
 
 **主な取り組み**
 
-**使用技術**  
- Python / FastAPI / React / Ant Design / Tailwind CSS / ElasticSearch / AWS
-
 **使用技術**
 
 Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
