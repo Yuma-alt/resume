@@ -48,7 +48,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Ast
 **主な取り組み**
 
 **使用技術**  
-Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Redmine / Slack 
+Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git
 
 #### 飲食店向けの事前決済サービス「Paygood eats」の開発(2022/5 - 2023/6)
 
@@ -63,7 +63,7 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Redmin
 
 **使用技術**
 
-Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright / Google Chat
+Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
 
 #### イベント物販用の事前決済サービス「Paygood live」の開発(2021/3 - 2022/5)
 
@@ -88,7 +88,7 @@ Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Doc
 
 **使用技術**
 
-Java8 / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue3 / MySQL / PostgreSQL/ Doma2 / Git / SVN / Redmine /ChatWork
+Java8 / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue3 / MySQL / PostgreSQL/ Doma2 / Git / SVN
 
 </section>
 
