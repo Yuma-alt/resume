@@ -75,7 +75,7 @@ Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Doc
 
 Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / AWS / Selenide /Google Chat
 
-### 株式会社ネクスタム（2019/04〜2021/04）
+### 株式会社ネクスタム | 2019/04 - 2021/04
 
 #### 顧客管理・営業支援システム開発の保守・運用、追加開発(2019/10 - 2021/04)
 
