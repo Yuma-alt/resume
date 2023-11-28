@@ -62,7 +62,7 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git
 
 Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
 
-#### イベント物販用の事前決済サービス「Paygood live」の開発(2021/06 - 2022/05)
+#### イベント物販用の事前決済サービス「Paygood live」の開発 | 2021/06 - 2022/05
 
 自社サービス開発に参画。
 フロントエンドとバックエンドを担当しました。
@@ -86,7 +86,7 @@ Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Doc
 - 既存システムの保守・問い合わせ対応
 - 見積もり・提案書の作成
 
-**主な参加 PJ(2019/04〜2019/10) ※古いので省略しています**
+**主な参加 PJ | 2019/04 - 2019/10 </br>※古いので省略しています**
 
 - 適正検査システム新機能開発(Laravel+jQuery)
 - 家賃保証・管理システム新機能開発(SpringBoot+Vue)
