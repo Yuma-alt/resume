@@ -28,7 +28,7 @@ title: "職務経歴書"
 
 ## 技術スタック
 
-Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Astro / AWS / Docker / Kubernetes
+Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Svelte / Astro / AWS / Docker / Kubernetes
 
 </section>
 
