@@ -103,9 +103,7 @@ Java8 / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue3 / M
 
 ## 業務外活動
 
-### 副業
 
-- 作成中
 
 ---
 
