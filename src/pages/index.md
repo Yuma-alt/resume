@@ -45,9 +45,13 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 基本設計・詳細設計・フロントエンド/バックエンド開発・単体/結合テストなどの上流工程から開発まで担当しています。
 
 **主な取り組み**
+- 詳細設計フェーズの主導
+- Vue3を用いたSPAフロントエンドの開発
+- Javaを用いたバッチの開発
+- 知見者不在のシステムを解析し、その複雑なプロセスを明確な手順書に体系化
 
 **使用技術**  
-Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git
+Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
 #### 飲食店向けの事前決済サービス「Paygood eats」の開発</br>2022/05 - 2023/06
 
