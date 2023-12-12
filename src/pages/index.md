@@ -45,10 +45,10 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 基本設計から実装までの全工程を担当。具体的には、基本設計、詳細設計、フロントエンド/バックエンドの開発、単体テストおよび結合テストを含む。
 
 **主な取り組み**
-- 詳細設計フェーズの主導
-- Vue3を用いたSPAフロントエンドの開発
-- Javaを用いたバッチの開発
-- 知見者不在のシステムを解析し、その複雑なプロセスを明確な手順書に体系化
+- 詳細設計フェーズのリード
+- Vue3を活用したSPAフロントエンド開発
+- avaを用いたバックエンド・バッチの開発
+- 知見者不在の状況下でのシステム解析と、その複雑なプロセスを明確な手順書に体系化
 
 **使用技術**  
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
