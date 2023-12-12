@@ -70,7 +70,7 @@ Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL / Hibernate / Keycloak / Do
 #### イベント物販用の事前決済サービス「paygood LIVE」の開発</br>2021/06 - 2022/05
 
 自社サービス開発に参画。</br>
-主にフロントエンドとバックエンドを担当しました。
+主にフロントエンドとバックエンドの開発を担当。
 
 **主な取り組み**
 - Selenideを用いた自動テストの作成
