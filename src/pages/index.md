@@ -67,18 +67,18 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
 Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL / Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
 
-#### イベント物販用の事前決済サービス「Paygood live」の開発</br>2021/06 - 2022/05
+#### イベント物販用の事前決済サービス「paygood LIVE」の開発</br>2021/06 - 2022/05
 
-自社サービス開発に参画。
-フロントエンドとバックエンドを担当しました。
+自社サービス開発に参画。</br>
+主にフロントエンドとバックエンドを担当しました。
 
 **主な取り組み**
-- Selenideを使用した自動テストの作成
+- Selenideを用いた自動テストの作成
 - Keycloakを用いた会員機能の作成
 
 **使用技術**
 
-Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / AWS / Selenide /Google Chat
+Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / AWS / Selenide
 
 ### 株式会社ネクスタム | 2019/04 - 2021/04
 
