@@ -22,9 +22,8 @@ title: "職務経歴書"
 ## 保有スキル
 
 - Java, PHP などを利用したバックエンド開発
-- JavaScript/TypeScript+Vue,jQuery, Astro を利用したフロントエンド開発
+- JavaScript/TypeScript + Vue, jQuery, Svelteを利用したフロントエンド開発
 - レガシーコードのリファクタリング
-- ビジネスロジックや SQL の改善によるパフォーマンスチューニング
 
 ## 技術スタック
 
