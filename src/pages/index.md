@@ -15,7 +15,7 @@ title: "職務経歴書"
 | 生年月日   | 1996/03/22                                                                                                     |
 | 居住地     | 大阪府                                                                                                         |
 | 最終学歴   | 同志社大学 法学部 政治学科                                                              |
-| アカウント | Github: https://github.com/Yuma-alt<br>Qiita: https://qiita.com/rainbow_fish |
+| アカウント | Github: https://github.com/Yuma-alt<br>Qiita: https://qiita.com/Yuu31120 |
 
 ---
 
@@ -40,9 +40,9 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 
 ### 株式会社モノクレア | 2021/06 - 現在
 
-#### 国民向けポータルサイトの開発(2023/07 - 現在)
+#### デジタルプラットフォームの機能拡張プロジェクト</br>(2023/07 - 現在)
 
-某省庁の追加機能開発案件に SES として参画。  
+某省庁の機能拡張案件に SES として参画。  
 基本設計・詳細設計・フロントエンド/バックエンド開発・単体/結合テストなどの上流工程から開発まで担当しています。
 
 **主な取り組み**
@@ -50,7 +50,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 **使用技術**  
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git
 
-#### 飲食店向けの事前決済サービス「Paygood eats」の開発(2022/05 - 2023/06)
+#### 飲食店向けの事前決済サービス「Paygood eats」の開発</br>(2022/05 - 2023/06)
 
 自社サービス開発に参画。  
 要件定義フェーズから開発、ローンチまでを担当しました。  
