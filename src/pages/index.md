@@ -48,7 +48,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 - 詳細設計フェーズのリード
 - Vue3を活用したSPAフロントエンド開発
 - Javaを用いたバックエンド・バッチの開発
-- 知見者不在の状況下でのシステム解析と、その複雑なプロセスを明確な手順書に体系化
+- 知見者不在の状況下でのシステム解析と、その複雑なプロセスを明確な手順書に体系化・他PJチームでもすぐ操作できるよう情報共有
 
 **使用技術**  
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
