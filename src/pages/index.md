@@ -55,17 +55,17 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
 #### 飲食店向けの事前決済サービス「paygood EATS」の開発</br>2022/05 - 2023/06
 
-自社サービス開発に参画。  
-クライアントとのやり取りからフロントエンド・バックエンド開発を担当しました。  
-クライアントの要望をそのまま実現するのではなく、実際のエンドユーザや使用する店舗スタッフを思い浮かべ、**どうしたら使いやすい WEB サービスを実現できるのかを常に考えて開発に取り組みました。**
+自社サービス開発に参画。
+クライアントとのやり取りを通じて、フロントエンドおよびバックエンドの開発を担当。
+クライアントの要望を単に実現するのではなく、エンドユーザーや店舗スタッフの視点を重視し、使いやすさと機能性を両立させたWEBサービスの開発に尽力。
 
 **主な取り組み**
-- 仕様に関するデザインの取り決め・提案書の作成
-- 負荷テストの実施
+- 仕様決定におけるデザイン提案と仕様書作成
+- システムの耐久性を確認するための負荷テスト実施
 
 **使用技術**
 
-Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
+Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL / Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
 
 #### イベント物販用の事前決済サービス「Paygood live」の開発</br>2021/06 - 2022/05
 
