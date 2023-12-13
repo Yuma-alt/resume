@@ -68,7 +68,7 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL / Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
 
 **導入実績**
-- [　フードデリバリー試験導入のお知らせ](https://www.fctokyo.co.jp/news/15043)
+- [F.C.TOKYO　フードデリバリー試験導入のお知らせ](https://www.fctokyo.co.jp/news/15043)
 
 #### イベント物販用の事前決済サービス「paygood LIVE」の開発</br>2021/06 - 2022/05
 
