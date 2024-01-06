@@ -109,6 +109,9 @@ Java8 / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue3 / M
 
 <section>
 
+## 業務外活動
+- Kotlinを使用した動画ダウンロードアプリの作成(2024年中にリリース予定)
+
 ## 意欲・興味
 
 - 世の中の「面倒」をなくし、もっと「便利」にしていけるようなエンジニアでありたいと考えています。
