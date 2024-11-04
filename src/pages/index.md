@@ -27,7 +27,7 @@ title: "職務経歴書"
 
 ## 技術スタック
 
-Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Svelte / Astro / AWS / Docker / Kubernetes
+Java / PHP / TypeScript / JavaScript / SpringBoot/ Quarkus / Laravel / jQuery / Vue / Svelte / AWS / Docker / Kubernetes / Git
 
 </section>
 
@@ -39,7 +39,21 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 
 ### 株式会社モノクレア | 2021/06 - 現在
 
-#### デジタルプラットフォームの機能拡張プロジェクト</br>2023/07 - 現在
+#### Javaベースのアプリケーション開発を効率化するためのOSSプロジェクトの開発
+
+自社サービスに参画。開発初期段階にて、フロントエンドおよびバックエンドの開発に従事。
+
+**主な取り組み**
+
+- SvelteKitを活用したフロントエンド開発
+- Quarkusを用いたバックエンド開発
+- Playwrightを用いた自動テストの作成
+
+**使用技術**
+
+Java / JavaScript / Quarkus / Svelte / SvelteKit / PostgreSQL / Maven / Playwright
+
+#### デジタルプラットフォームの機能拡張プロジェクトの開発</br>2023/07 - 2024/03
 
 某省庁の機能拡張案件に高単価SESとして参画。</br>
 基本設計から実装までの全工程を担当。具体的には、基本設計、詳細設計、フロントエンド/バックエンドの開発、単体テストおよび結合テストを含む。
@@ -58,7 +72,7 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
 自社サービス開発に参画。
 クライアントとのやり取りを通じて、フロントエンドおよびバックエンドの開発を担当。
-クライアントの要望を単に実現するのではなく、エンドユーザーや店舗スタッフの視点を重視し、使いやすさと機能性を両立させたWEBサービスの開発に尽力。
+クライアントの要望を単に実現するのではなく、エンドユーザーや店舗スタッフの視点を重視し、使いやすさと機能性を両立させたWEBサービスの開発に従事。
 
 **主な取り組み**
 - 仕様決定におけるデザイン提案と仕様書作成
