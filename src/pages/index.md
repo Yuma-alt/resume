@@ -50,7 +50,8 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 - Javaを用いたバックエンド・バッチの開発
 - 知見者不在の状況下でのシステム解析と、その複雑なプロセスを明確な手順書に体系化・他PJチームでもすぐ操作できるように情報共有
 
-**使用技術**  
+**使用技術**
+
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
 #### 飲食店向けの事前決済サービス「paygood EATS / MOG」の開発</br>2022/05 - 2023/06
