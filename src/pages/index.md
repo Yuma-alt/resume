@@ -37,7 +37,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 
 ## 職歴
 
-### 株式会社モノクレア | 2021/06 - 現在
+### 株式会社モノクレア | 2021/06 - 2025/01
 
 #### デジタルプラットフォームの機能拡張プロジェクト</br>2023/07 - 現在
 
