@@ -27,7 +27,7 @@ title: "職務経歴書"
 
 ## 技術スタック
 
-Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Svelte / Astro / AWS / Docker / Kubernetes
+Java / PHP / TypeScript / JavaScript / SpringBoot/ Quarkus / Laravel / jQuery / Vue / Svelte / AWS / Docker / Kubernetes / Git
 
 </section>
 
@@ -37,6 +37,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 
 ## 職歴
 
+
 ### 株式会社エクスブレーン | 2025/02 - 現在
 
 #### 大手小売業向けのECサイト構築プロジェクト</br>2025/04 - 現在
@@ -45,6 +46,10 @@ Java / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue / Sve
 Adobe Experience Manager (AEM) を用いたCMS設計と、React.jsを用いたフロントエンド開発を担当。
 
 ### 株式会社モノクレア | 2021/06 - 2025/01
+
+#### Javaベースのアプリケーション開発を効率化するためのOSSプロジェクトの開発
+
+自社サービスに参画。開発初期段階にて、フロントエンドおよびバックエンドの開発に従事。
 
 #### デジタルプラットフォームの機能拡張プロジェクト</br>2023/07 - 2024/03
 
@@ -57,14 +62,15 @@ Adobe Experience Manager (AEM) を用いたCMS設計と、React.jsを用いた�
 - Javaを用いたバックエンド・バッチの開発
 - 知見者不在の状況下でのシステム解析と、その複雑なプロセスを明確な手順書に体系化・他PJチームでもすぐ操作できるように情報共有
 
-**使用技術**  
+**使用技術**
+
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
 #### 飲食店向けの事前決済サービス「paygood EATS / MOG」の開発</br>2022/05 - 2023/06
 
 自社サービス開発に参画。
 クライアントとのやり取りを通じて、フロントエンドおよびバックエンドの開発を担当。
-クライアントの要望を単に実現するのではなく、エンドユーザーや店舗スタッフの視点を重視し、使いやすさと機能性を両立させたWEBサービスの開発に尽力。
+クライアントの要望を単に実現するのではなく、エンドユーザーや店舗スタッフの視点を重視し、使いやすさと機能性を両立させたWEBサービスの開発に従事。
 
 **主な取り組み**
 - 仕様決定におけるデザイン提案と仕様書作成
