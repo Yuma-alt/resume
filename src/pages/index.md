@@ -42,8 +42,27 @@ Java / PHP / TypeScript / JavaScript / SpringBoot/ Quarkus / Laravel / jQuery / 
 
 #### 大手小売業向けのECサイト構築プロジェクト</br>2025/04 - 現在
 
-大手小売業向けのECサイト構築プロジェクトにフロントエンドエンジニアとして参画。</br>
+大手小売業向けのECサイト構築プロジェクトにフロントエンドエンジニアとして参画中。</br>
 Adobe Experience Manager (AEM) を用いたCMS設計と、React.jsを用いたフロントエンド開発を担当。
+
+**使用技術**
+
+Java / SpringBoot / Spring Batch / TypeScript / React.js / Git / Figma
+
+#### 自動車産業向けカーナビOTA向けソフトウェアの開発プロジェクト</br>2025/02 - 2025/03
+
+自動車産業向けカーナビOTA向けソフトウェアの開発プロジェクトに参画。</br>
+主にフロントエンド・バックエンドの開発を担当。
+
+**主な取り組み**
+
+- JavaおよびMyBatisを用いたバッチ処理の開発
+- 実装箇所のテストケース作成とテストの実施
+
+**使用技術**
+
+Java / SpringBoot / TypeScript / Angular / Git　/ MyBatis / AWS
+
 
 ### 株式会社モノクレア | 2021/06 - 2025/01
 
