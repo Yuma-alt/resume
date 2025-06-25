@@ -22,7 +22,7 @@ title: "職務経歴書"
 ## 保有スキル
 
 - Javaを利用したバックエンド開発
-- JavaScript/TypeScript + Vue, jQuery, Svelteを利用したフロントエンド開発
+- JavaScript/TypeScript + Vue, Svelteを利用したフロントエンド開発
 - レガシーコードのリファクタリング
 
 ## 技術スタック
