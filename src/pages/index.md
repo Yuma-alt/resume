@@ -25,7 +25,7 @@ title: "職務経歴書"
 - JavaScript/TypeScript + Vue, Svelteを利用したフロントエンド開発
 - レガシーコードのリファクタリング
 
-## 技術スタック
+## 【使用技術】
 
 Java / PHP / TypeScript / JavaScript / SpringBoot/ Quarkus / Laravel / jQuery / Vue / Svelte / AWS / Docker / Kubernetes / Git
 
@@ -45,7 +45,7 @@ Java / PHP / TypeScript / JavaScript / SpringBoot/ Quarkus / Laravel / jQuery / 
 大手小売業向けのECサイト構築プロジェクトにフロントエンドエンジニアとして参画中。</br>
 Adobe Experience Manager (AEM) を用いたCMS設計と、React.jsを用いたフロントエンド開発を担当。
 
-**使用技術**
+**【使用技術】**
 
 Java / SpringBoot / Spring Batch / TypeScript / React.js / Git / Figma
 
@@ -54,14 +54,14 @@ Java / SpringBoot / Spring Batch / TypeScript / React.js / Git / Figma
 自動車産業向けカーナビOTA向けソフトウェアの開発プロジェクトに参画。</br>
 主にフロントエンド・バックエンドの開発を担当。
 
-**主な取り組み**
+**【主な取り組み】**
 
 - JavaおよびMyBatisを用いたバッチ処理の開発
 - 実装箇所のテストケース作成とテストの実施
 
-**使用技術**
+**【使用技術】**
 
-Java / SpringBoot / TypeScript / Angular / Git　/ MyBatis / AWS
+Java / SpringBoot / TypeScript / Angular / Git / MyBatis / AWS
 
 
 ### 株式会社モノクレア | 2021/06 - 2025/01
@@ -70,7 +70,7 @@ Java / SpringBoot / TypeScript / Angular / Git　/ MyBatis / AWS
 
 自社サービスに参画。開発初期段階にて、フロントエンドおよびバックエンドの開発に従事。
 
-**主な取り組み**
+**【主な取り組み】**
 - フロントエンド開発：
   - SvelteKitを活用したフロントエンドアプリケーションを開発
 - バックエンド開発：
@@ -78,11 +78,11 @@ Java / SpringBoot / TypeScript / Angular / Git　/ MyBatis / AWS
 - 自動テスト作成：
   - Playwrightを用いて、フロントエンドの自動化テストスクリプトを作成
 
-**使用技術**
+**【使用技術】**
 
 Java21 / Quarkus / TypeScript / Svelte / SvelteKit / PostgreSQL / Hibernate / Docker / AWS / Playwright
 
-**サイト**
+**▫️サイト**
 - https://aulait.dev/
 
 #### ④金融犯罪防止を目的とした査定サービスシステムの開発プロジェクト</br>2024/04 - 2024/05
@@ -90,13 +90,13 @@ Java21 / Quarkus / TypeScript / Svelte / SvelteKit / PostgreSQL / Hibernate / Do
 金融犯罪防止を目的とした査定サービスシステムの開発プロジェクトに参画しました。
 バックエンドおよびフロントエンドの開発を担当し、翻訳機能やSPA（Single Page Application）の実装・修正を行いました。
 
-**主な取り組み**
+**【主な取り組み】**
 - PythonおよびDeepL APIを活用した翻訳機能の実装
 - Redis（キャッシュシステム）を使用し、コスト効率を考慮したキャッシュ管理機能を開発
 - 翻訳対象となる英文リストを受け取り、キャッシュからのデータ取得および翻訳結果の保存を実現
 - Vue 3を用いたSPAの開発および既存機能の修正
 
-**使用技術**
+**【使用技術】**
 
 Python / TypeScript / FastAPI / Vue3 / PostgreSQL / AWS / Git / Redis
 
@@ -106,13 +106,13 @@ Python / TypeScript / FastAPI / Vue3 / PostgreSQL / AWS / Git / Redis
 某省庁の機能拡張案件に高単価SESとして参画。</br>
 基本設計から実装までの全工程を担当。具体的には、基本設計、詳細設計、フロントエンド/バックエンドの開発、単体テストおよび結合テストを含む。
 
-**主な取り組み**
+**【主な取り組み】**
 - 詳細設計フェーズのリード
 - Vue3を活用したSPAフロントエンド開発
 - Javaを用いたバックエンド・バッチの開発
 - 知見者不在の状況下でのシステム解析と、その複雑なプロセスを明確な手順書に体系化・他PJチームでもすぐ操作できるように情報共有
 
-**使用技術**
+**【使用技術】**
 
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
@@ -122,15 +122,15 @@ Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 クライアントとのやり取りを通じて、フロントエンドおよびバックエンドの開発を担当。
 クライアントの要望を単に実現するのではなく、エンドユーザーや店舗スタッフの視点を重視し、使いやすさと機能性を両立させたWEBサービスの開発に従事。
 
-**主な取り組み**
+**【主な取り組み】**
 - 仕様決定におけるデザイン提案と仕様書作成
 - システムの耐久性を確認するための負荷テスト実施
 
-**使用技術**
+**【使用技術】**
 
 Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL / Hibernate / Keycloak / Docker / Kubernetes / AWS / Jmeter / Selenide / Playwright
 
-**導入実績**
+**▫️導入実績**
 - [F.C.TOKYO　フードデリバリー試験導入のお知らせ](https://www.fctokyo.co.jp/news/15043)
 
 #### ⑦イベント物販用の事前決済サービス「paygood LIVE」の開発</br>2021/06 - 2022/05
@@ -138,11 +138,11 @@ Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL / Hibernate / Keycloak / Do
 自社サービス開発に参画。</br>
 主にフロントエンドとバックエンドの開発を担当。
 
-**主な取り組み**
+**【主な取り組み】**
 - Selenideを用いた自動テストの作成
 - Keycloakを用いた会員機能の作成
 
-**使用技術**
+**【使用技術】**
 
 Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Docker / AWS / Selenide
 
@@ -152,7 +152,7 @@ Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Doc
 
 SEとして受託案件に幅広く携わり、見積もり作成、提案、設計、開発、保守・運用の各段階に貢献。**様々な開発 PJ に参加し、幅広い開発環境に対応できるスキルを習得。**
 
-**主な取り組み**
+**【主な取り組み】**
 - プロダクトの成長・契約数増加のため、顧客からの要望が高い機能の新規追加
 - 既存システムの保守管理・問い合わせ対応
 - 見積もり・提案書の作成
@@ -162,7 +162,7 @@ SEとして受託案件に幅広く携わり、見積もり作成、提案、設
 - ⑨適正検査システム新機能開発(Laravel + jQuery)
 - ⑩家賃保証・管理システム新機能開発(SpringBoot + Vue)
 
-**使用技術**
+**【使用技術】**
 
 Java8 / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue3 / MySQL / PostgreSQL/ Doma2 / Git / SVN
 
