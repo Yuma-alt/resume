@@ -62,7 +62,7 @@ Java / SpringBoot / TypeScript / Vue.js / Git / PostgreSQL
 
 #### ③大手小売業向けのECサイト構築プロジェクト</br>2025/04 - 2025/07
 
-大手小売業向けのECサイト構築プロジェクトにフロントエンドエンジニアとして参画中。</br>
+大手小売業向けのECサイト構築プロジェクトにフロントエンドエンジニアとして参画。</br>
 Adobe Experience Manager (AEM) を用いたCMS設計と、React.jsを用いたフロントエンド開発を担当。
 
 **【使用技術】**
