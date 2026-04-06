@@ -40,16 +40,36 @@ Java / PHP / TypeScript / JavaScript / SpringBoot/ Quarkus / Laravel / jQuery / 
 
 ### 株式会社エクスブレーン | 2025/02 - 現在
 
-#### ①大手小売業向けのECサイト構築プロジェクト</br>2025/04 - 現在
+#### ①交通系サービス企業向け高速バス予約サイト開発プロジェクト</br>2026/02 - 現在
+
+交通系サービスを展開する企業向けに、海外で運行する高速バスの予約サイト開発プロジェクトへ参画。
+
+**【主な取り組み】**
+- 既存システムとの整合性を踏まえたデータベース設計
+- 画面設計書の作成および画面要件の整理
+
+**【使用技術（想定）】**
+
+Java / SpringBoot / JavaScript / MySQL / Git
+
+#### ②インターネットパンキングの新システムへの全面移行プロジェクト</br>2025/07 - 2026/01
+
+インターネットバンキングで稼働する業務システムの旧システムから新システムへの全面移行プロジェクトにおいて、設計・開発・テストを担当。
+
+**【使用技術】**
+
+Java / SpringBoot / TypeScript / Vue.js / Git / PostgreSQL
+
+#### ③大手小売業向けのECサイト構築プロジェクト</br>2025/04 - 2025/07
 
 大手小売業向けのECサイト構築プロジェクトにフロントエンドエンジニアとして参画中。</br>
 Adobe Experience Manager (AEM) を用いたCMS設計と、React.jsを用いたフロントエンド開発を担当。
 
 **【使用技術】**
 
-Java / SpringBoot / Spring Batch / TypeScript / React.js / Git / Figma
+Java / SpringBoot / TypeScript / React.js / Git / Figma
 
-#### ②自動車産業向けカーナビOTA向けソフトウェアの開発プロジェクト</br>2025/02 - 2025/03
+#### ④自動車産業向けカーナビOTA向けソフトウェアの開発プロジェクト</br>2025/02 - 2025/03
 
 自動車産業向けカーナビOTA向けソフトウェアの開発プロジェクトに参画。</br>
 主にフロントエンド・バックエンドの開発を担当。
@@ -82,7 +102,7 @@ Java / SpringBoot / TypeScript / Angular / Git / MyBatis / AWS
 
 Java21 / Quarkus / TypeScript / Svelte / SvelteKit / PostgreSQL / Hibernate / Docker / AWS / Playwright
 
-**▫️サイト**
+**▫️プロジェクトURL**
 - https://aulait.dev/
 
 #### ④金融犯罪防止を目的とした査定サービスシステムの開発プロジェクト</br>2024/04 - 2024/05
