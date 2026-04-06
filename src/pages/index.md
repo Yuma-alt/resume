@@ -193,7 +193,9 @@ Java8 / PHP / TypeScript / JavaScript / SpringBoot / Laravel / jQuery / Vue3 / M
 <section>
 
 ## 業務外活動
-- Kotlinを使用した動画ダウンロードアプリの作成(2024年中にリリース予定)
+- Kotlinを使用した動画ダウンロードアプリの作成(著作権等の問題から、リリース断念)
+- iOSで使用できるカテゴリ毎に分類できるメモ帳の作成
+
 
 ## 意欲・興味
 
