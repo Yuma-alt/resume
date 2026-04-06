@@ -86,7 +86,7 @@ Java / SpringBoot / TypeScript / Angular / Git / MyBatis / AWS
 
 ### 株式会社モノクレア | 2021/06 - 2025/01
 
-#### ③Javaベースのアプリケーション開発を効率化するためのOSSプロジェクトの開発</br>2024/05 - 2025/01
+#### ⑤Javaベースのアプリケーション開発を効率化するためのOSSプロジェクトの開発</br>2024/05 - 2025/01
 
 自社サービスに参画。開発初期段階にて、フロントエンドおよびバックエンドの開発に従事。
 
@@ -105,7 +105,7 @@ Java21 / Quarkus / TypeScript / Svelte / SvelteKit / PostgreSQL / Hibernate / Do
 **▫️プロジェクトURL**
 - https://aulait.dev/
 
-#### ④金融犯罪防止を目的とした査定サービスシステムの開発プロジェクト</br>2024/04 - 2024/05
+#### ⑥金融犯罪防止を目的とした査定サービスシステムの開発プロジェクト</br>2024/04 - 2024/05
 
 金融犯罪防止を目的とした査定サービスシステムの開発プロジェクトに参画しました。
 バックエンドおよびフロントエンドの開発を担当し、翻訳機能やSPA（Single Page Application）の実装・修正を行いました。
@@ -121,7 +121,7 @@ Java21 / Quarkus / TypeScript / Svelte / SvelteKit / PostgreSQL / Hibernate / Do
 Python / TypeScript / FastAPI / Vue3 / PostgreSQL / AWS / Git / Redis
 
 
-#### ⑤デジタルプラットフォームの機能拡張プロジェクト</br>2023/07 - 2024/03
+#### ⑦デジタルプラットフォームの機能拡張プロジェクト</br>2023/07 - 2024/03
 
 某省庁の機能拡張案件に高単価SESとして参画。</br>
 基本設計から実装までの全工程を担当。具体的には、基本設計、詳細設計、フロントエンド/バックエンドの開発、単体テストおよび結合テストを含む。
@@ -136,7 +136,7 @@ Python / TypeScript / FastAPI / Vue3 / PostgreSQL / AWS / Git / Redis
 
 Java / JavaScript / SpringBoot / Vue3 / PostgreSQL/ MyBatis / AWS / Git / Figma
 
-#### ⑥飲食店向けの事前決済サービス「paygood EATS / MOG」の開発</br>2022/05 - 2023/06
+#### ⑧飲食店向けの事前決済サービス「paygood EATS / MOG」の開発</br>2022/05 - 2023/06
 
 自社サービス開発に参画。
 クライアントとのやり取りを通じて、フロントエンドおよびバックエンドの開発を担当。
@@ -153,7 +153,7 @@ Java17 / SpringBoot / TypeScript / Vue2 / PostgreSQL / Hibernate / Keycloak / Do
 **▫️導入実績**
 - [F.C.TOKYO　フードデリバリー試験導入のお知らせ](https://www.fctokyo.co.jp/news/15043)
 
-#### ⑦イベント物販用の事前決済サービス「paygood LIVE」の開発</br>2021/06 - 2022/05
+#### ⑨イベント物販用の事前決済サービス「paygood LIVE」の開発</br>2021/06 - 2022/05
 
 自社サービス開発に参画。</br>
 主にフロントエンドとバックエンドの開発を担当。
@@ -168,7 +168,7 @@ Java11 / SpringBoot / TypeScript / Vue2 / PostgreSQL/ Hibernate / Keycloak / Doc
 
 ### 株式会社ネクスタム | 2019/04 - 2021/04
 
-#### ⑧顧客管理・営業支援システム開発の保守・運用、追加開発</br>2019/10 - 2021/04
+#### ⑩顧客管理・営業支援システム開発の保守・運用、追加開発</br>2019/10 - 2021/04
 
 SEとして受託案件に幅広く携わり、見積もり作成、提案、設計、開発、保守・運用の各段階に貢献。**様々な開発 PJ に参加し、幅広い開発環境に対応できるスキルを習得。**
 
@@ -179,8 +179,8 @@ SEとして受託案件に幅広く携わり、見積もり作成、提案、設
 
 **主な参加 PJ | 2019/04 - 2019/10 </br>※古いので省略**
 
-- ⑨適正検査システム新機能開発(Laravel + jQuery)
-- ⑩家賃保証・管理システム新機能開発(SpringBoot + Vue)
+- 適正検査システム新機能開発(Laravel + jQuery)
+- 家賃保証・管理システム新機能開発(SpringBoot + Vue)
 
 **【使用技術】**
 
